@@ -1,4 +1,4 @@
-# NEXUS Fulfillment Observatory
+# SimuLine Fulfillment Observatory
 
 A Next.js App Router / React 19 / TypeScript warehouse digital twin. Three.js runs through React Three Fiber 9, with drei orthographic camera, CameraControls, world-space HTML labels, instanced racking, spline-driven AGVs and conveyor parcels, and subtle emissive bloom. The HUD uses Tailwind CSS 4, local shadcn-style Radix controls, Lucide icons and Recharts. Zustand manages selection, camera commands and simulation controls. GSAP handles responsive camera zoom transitions.
 

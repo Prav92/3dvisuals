@@ -51,7 +51,7 @@ export default function WarehouseDashboard() {
       </div>
       <header>
         <a className="brand" href="/">
-          <Layers className="text-emerald-300" /> NEXUS
+          <Layers className="text-emerald-300" /> SimuLine
           <span className="divider" />
           <span className="subbrand">FULFILLMENT OBSERVATORY</span>
         </a>

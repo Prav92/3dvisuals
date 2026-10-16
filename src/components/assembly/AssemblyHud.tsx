@@ -160,7 +160,7 @@ export function TopBar() {
     <div className="asm-topbar">
       <Link href="/" className="asm-back">← ALL SIMULATIONS</Link>
       <div className="asm-title">
-        <span className="asm-dot" /> NEXUS <i /> <span>AUTOMOTIVE ASSEMBLY · PLANT 02</span>
+        <span className="asm-dot" /> SimuLine <i /> <span>AUTOMOTIVE ASSEMBLY · PLANT 02</span>
       </div>
     </div>
   );

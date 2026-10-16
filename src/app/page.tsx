@@ -9,7 +9,7 @@ export default function Page() {
   return (
     <main style={{ minHeight: '100vh', display: 'grid', placeItems: 'center', background: '#0d1b27', color: '#e6f1f5', fontFamily: 'system-ui, sans-serif' }}>
       <div style={{ textAlign: 'center' }}>
-        <h1>NEXUS Simulations</h1>
+        <h1>SimuLine</h1>
         <ul style={{ listStyle: 'none', padding: 0, display: 'grid', gap: 14 }}>
           {simulations.map((sim) => (
             <li key={sim.href}>
